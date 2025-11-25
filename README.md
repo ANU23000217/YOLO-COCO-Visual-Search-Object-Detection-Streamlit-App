@@ -10,7 +10,7 @@ The aim is to enable fast, accurate object recognition in an easy-to-use interfa
 
 * COCO 2017 Dataset
 * Contains n number of everyday object classes
-*Examples: person, car, dog, bicycle, cup, laptop, bottle, chair, bus, etc.
+* Examples: person, car, dog, bicycle, cup, laptop, bottle, chair, bus, etc.
 
 ### YOLO Model Used
 
