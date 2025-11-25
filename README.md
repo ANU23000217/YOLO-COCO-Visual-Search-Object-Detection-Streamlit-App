@@ -5,14 +5,14 @@ This project implements a real-time visual search and object detection system us
 Users can upload an image through a simple Streamlit web UI, and the model detects objects, displays bounding boxes, class labels, and confidence scores.
 The aim is to enable fast, accurate object recognition in an easy-to-use interface—achieving visual search functionality suitable for academic, commercial, and real-world applications.
 
-### Dataset & YOLO Model Details (COCO)
-## Dataset:
+## Dataset & YOLO Model Details (COCO)
+### Dataset:
 
 * COCO 2017 Dataset
 * Contains n number of everyday object classes
 *Examples: person, car, dog, bicycle, cup, laptop, bottle, chair, bus, etc.
 
-## YOLO Model Used
+### YOLO Model Used
 
 * Model Variant: YOLOv8n
 
@@ -22,14 +22,14 @@ The aim is to enable fast, accurate object recognition in an easy-to-use interfa
 * Object class name
 * Confidence score
 
- ### Environment Setup (Conda)
-#### Create Conda Environment
-## CPU Users:
+ ## Environment Setup (Conda)
+### Create Conda Environment
+### CPU Users:
 ```
 conda create -n yolo_image_search python=3.11 -y
 conda activate yolo_image_search
 ```
-## GPU Users (NVIDIA CUDA Supported System)
+### GPU Users (NVIDIA CUDA Supported System)
 ```
 conda create -n yolo_image_search_gpu python=3.11 -y
 conda activate yolo_image_search_gpu
