@@ -49,6 +49,16 @@ Click the terminal URL:
 
 http://localhost:8501
 
+## Output Screenshots:
+<img width="1907" height="568" alt="Screenshot 2025-11-25 101839" src="https://github.com/user-attachments/assets/7cbc0c38-e312-4456-95df-702ae97ae0c4" />
+
+
+<img width="1831" height="376" alt="Screenshot 2025-11-25 101927" src="https://github.com/user-attachments/assets/88ede127-f48e-4682-95e3-8fccd7057fa7" />
+
+
+<img width="1920" height="1020" alt="Screenshot 2025-11-25 102036" src="https://github.com/user-attachments/assets/a6014f98-9357-49da-a417-f7385c7ceb7b" />
+
+
 ### Result: 
 
 The YOLO COCO Streamlit application successfully performs object detection with high accuracy and speed on a user-friendly interface.
