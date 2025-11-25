@@ -56,7 +56,7 @@ http://localhost:8501
 <img width="1831" height="376" alt="Screenshot 2025-11-25 101927" src="https://github.com/user-attachments/assets/88ede127-f48e-4682-95e3-8fccd7057fa7" />
 
 
-<img width="1920" height="1020" alt="Screenshot 2025-11-25 102036" src="https://github.com/user-attachments/assets/a6014f98-9357-49da-a417-f7385c7ceb7b" />
+<img width="1920" height="908" alt="Screenshot 2025-11-25 102036" src="https://github.com/user-attachments/assets/3b28f6e7-6e81-4cd9-8739-21ff0a5fc79d" />
 
 
 ### Result: 
